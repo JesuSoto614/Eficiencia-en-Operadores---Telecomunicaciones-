@@ -43,7 +43,7 @@ Tendremos un apartado de exploracion donde:
     5. Observaremos resultados, daremos concluciones y recomendaciones.
 
 ## 📈 Resultados
-/image.png
+![/image.png](image.png)
 Despues de limpiar y dar formato a los datos, pudimos calcular los indicadores de eficiencia de los cuales determinamos que la mayor area de oportunidad que tiene la empresa en el indicador Llamadas por Hora - OCH, ya que representa el kpi con el porcentaje de datos aceptables mas bajos con un 26 % de operadores con metricas Normales y 21% Con metricas eficientes. Al contrario que Tiempo Promedio de Operacion con un 79% de eficiencia y un 20% de operadores normales. Encuanto al resto de indicadores Llamadas no Respondidas -ANA ocupa el segundo lugar en el top de indicadores con mas eficiencia, con un porcentaje de 72% de operadores eficientes y 13% de operadores normales sumando un 86 % de operadores con una Taza de llamadas perdida aceptable, seguido por Tiempo Promedio de respuesta - ASA con colaboradores que responden eficientemente un 49% y normalmente 19%, y por ultimo Resolucion a la primera llamada FCR con 62% de operadores aceptables de los cuales solo el 36% actuan de manera Eficiente.
 
 **Ponderacion general**
